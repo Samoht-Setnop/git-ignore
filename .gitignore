@@ -1,0 +1,16 @@
+index-teste.html
+# Criado por https://www.toptal.com/developers/gitignore/api/react
+# Edite em https://www.toptal.com/developers/gitignore?templates=react
+
+### reagir ###
+.DS_*
+*.registro
+*.log
+Histórico
+**/*.cópia de segurança.*
+**/*.voltar.*
+
+node_modules
+bower_components
+
+# Fim de https://www.toptal.com/developers/gitignore/api/react
